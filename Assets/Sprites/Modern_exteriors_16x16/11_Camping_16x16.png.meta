@@ -1,0 +1,2943 @@
+fileFormatVersion: 2
+guid: bcabe25c77c4bb2eda45aa73279b73a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 11_Camping_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 225
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03aff1c4cd2806993257d95e413902
+      internalID: 1345214944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2847
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb22eefae74389b9fe96caf82f5e41
+      internalID: -73559648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2656
+        width: 225
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe940cfeeb39a34d599aec73924548c0
+      internalID: 1765677141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2798
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be6e1e6833141eabea383af33888d8
+      internalID: -43403144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2725
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf3eb53c926d3bdb1b89d0a4a50c4c
+      internalID: 1118804746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2725
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc66808625dc12818981ca4998951c8
+      internalID: -1418042314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2721
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395264f38b2779b5a857c5d18a7fdad3
+      internalID: -367296163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 272
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33729c330419b23da8c572d217ef56f7
+      internalID: -1279310564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2671
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ebfe50d7e81ca83a2571d9641a1ddc
+      internalID: -1394420511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2575
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd196b5b67352833faf95241cf7deb45
+      internalID: -53186226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2595
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca7855cdc5fb4738d6f5c43425cfee
+      internalID: 1399655469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2593
+        width: 190
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc4768fae33a80d8d732fb02e4143b
+      internalID: 992734827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2432
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87bd439a05ba02839d736621370aef9
+      internalID: -1755477746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2542
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a205e162794096b695322b8c087e344
+      internalID: -917124851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2527
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a878d0b39886935878e73ae3577341
+      internalID: -2081749460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2527
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b20d522cf5c8859bfbf9f0175aea0a
+      internalID: 877782796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2527
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2828400dfbace3789ae5cc0981e091
+      internalID: 1084902378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2480
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956a89084f65d26486e8fb53bfbb523
+      internalID: 911745313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2480
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac7a868c741c1a2bb539d34dddad2d
+      internalID: -282095119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2480
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272e74866fca2f2abd41c88b0511fc8
+      internalID: -1948409567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2431
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a453c9f505ebe08fb4c5c20120d8960
+      internalID: 90968219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2415
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222cd15e940d10a3a8f09c61a2cc016d
+      internalID: 1344061715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2431
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818071ddb6800a9ea8bff47b5500e67e
+      internalID: 695619788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2424
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638c528810265b63911903af41c2f43
+      internalID: -1887281816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2428
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7343d258dfff588980e333691da961c
+      internalID: 1058396150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2428
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee96907117fbe71a1e47283d599fe0
+      internalID: 1955161688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2424
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd80a84d1a721dc7b1fc48e066b9da2
+      internalID: -571929003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2400
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84b566d9417c83bbb9987bc5154005
+      internalID: -1968149381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2238
+        width: 257
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c5ace0f446cce0984f67105573956
+      internalID: -248267687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2419
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90204c7a5c33bf972a9dbb410571c7ae
+      internalID: 1402431482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c549f2d6727eaedc1b740570c161c9d0
+      internalID: -1068944070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2401
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee00c1ff1e946888755a3065d846ee
+      internalID: -1843218054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2405
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23b05fc83748c338876b51e19427fd
+      internalID: -1049881590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2367
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a34376a0a44c6d8db29ac87725e78
+      internalID: 621438002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2340
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f372e9e2ffbae0a7b00bcff1d62bb15
+      internalID: -540974976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2354
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ec3ba71dccde5380b5b9fa8c80b17
+      internalID: 164558731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2354
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9125dd3347e9d5839c6eb1d2fe7f942
+      internalID: 544110209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2352
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a52d0b5a05b7afd816388d18cf4370
+      internalID: -1184602454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2305
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb415295e3ac504a8b686c1c486f66
+      internalID: -2032451614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2304
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f386eac32fe2bba8e9514d0cbb539
+      internalID: -369205495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2323
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89fcaa66667691af88c20f26b2a7f16
+      internalID: 1940958953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2323
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76a9c68190dae72b0f2d74ca80ceb9
+      internalID: -984878967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2304
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54384f42a0ba70238989282ec4540d91
+      internalID: 1228686695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2244
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8930eb99e54bee6938abc5061696d3bf
+      internalID: 283665576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2244
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5716f2991d0951739d2054f9142634e
+      internalID: 2100366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2096
+        width: 149
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8856ca2760df76b1e99a005a1adf5
+      internalID: 1955507069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2146
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f379dd5356acc1ad857f94649be81be
+      internalID: 595285599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2096
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db68cd7d04a2f9b3af9c5627f4943a0
+      internalID: 1104731832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2031
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ac943998b26811bf930ada6b3e347
+      internalID: -1086953015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1886
+        width: 67
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed75575a9959ed8a4ab64ee69b8e48be
+      internalID: -2041607118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1991
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99044ecfaae68be994c95f4f6b1993
+      internalID: 481749486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2016
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652cf9d6ed480410842dc30b941f57b
+      internalID: 28427798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 129
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24880bf8f238189dbb15603bc0072bcf
+      internalID: -1040561074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1838
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450b47fd7876022f8a7803a2fc455cc
+      internalID: -254501140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1838
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313b9363a86f4277a8b37297044724f
+      internalID: 614592470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1874
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619f8e4562ec8743bad3384e08aaf68
+      internalID: -1857189889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1874
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f151cc4b92653749696e542480c8ca11
+      internalID: -699655908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1925
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70c15cb53c0dbc1adfcc6acf9e573d
+      internalID: -1523755143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1925
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea276fca165fbb680a71a717c91560
+      internalID: -1384450871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1923
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72121356c24d9d5718b5f02b5ebe7383
+      internalID: 1050047367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1879
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc3e4d9db102f6fa49937ae6b26d02
+      internalID: 252472813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1891
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87819ae4d7b00587b7d7feecdc1bef7
+      internalID: -2145000369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1759
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4950291da3fe199691c009c6d92a2ee
+      internalID: -400692121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1647
+        width: 256
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057dbd5fdd1d63b9c9db7f45dca4c2be
+      internalID: -697955908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1840
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa16660c748f3fde8b7a50407dff6fd8
+      internalID: 214924459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1859
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9e6e75926d2c0f8c3c3528f77e0f1
+      internalID: -1459497099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1840
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89c851c4962d27d99fcc6bb09e11ad
+      internalID: 12943244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1843
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363392ba347b05a458fa18b9f445d8ec
+      internalID: 233882738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1630
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4dddc21a498f3ec92f3957d0ff811d
+      internalID: -1022151122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1503
+        width: 225
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9af1a315d93bd43088243edcd442c8c
+      internalID: 384252413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 129
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2423ba4d39ca3593193fc5642abb26c9
+      internalID: 705543286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1455
+        width: 67
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b6d113d2b545b19b10241c9d061d9
+      internalID: 605725868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1407
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b19ef9357f65b1a1801955bb119e089
+      internalID: -914378460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1407
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f0b554abf47f539736d22b9cfcbec
+      internalID: -1612012320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1441
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186b1c18e91a44ed90c3b77412b2ce5
+      internalID: 822984569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1441
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2e599a85ef6d22997734c2d12e2f8
+      internalID: -1201448238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1326
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849847eb5e7955bb8c7bdac374f5043
+      internalID: 78507582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1311
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ea47969dff99ea8df7b8f3c82a03e
+      internalID: -1692398627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1216
+        width: 176
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d894932b72a1f532a05fe27c022110c
+      internalID: -2076516033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1199
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d064c74d20fe9ffcb5ccf7fd8894beb
+      internalID: 573777368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1039
+        width: 67
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d821ad8b11502d1abf1c3c4e36ba9d
+      internalID: -1272922718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1087
+        width: 225
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65fd9791febfed6e9e5d31aeddbb032
+      internalID: -522071834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 129
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972254b56d70d4b4f8f69c005c7c25e7
+      internalID: -984546755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 911
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94767c0371b62f2f801ed46e7f9a5c8
+      internalID: 1683284498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 991
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c73331ca4089269f7c4dbee6a5b5e
+      internalID: 767387576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 991
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae8486f0375b340a20ddd93654715d
+      internalID: 775125821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1025
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681842af6c8b1e218b27e576daf1d080
+      internalID: -760253635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1025
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b978bf6da0233c9c8b45a9d5198da0d3
+      internalID: 210122308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 895
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f747c734607447e0a5c6f86f3653530
+      internalID: 1251400223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 800
+        width: 176
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64946ae06afd5aac79ad2a412d499dd8
+      internalID: -1401501631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 783
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501901be31b5b55dbda3c7531cddf61
+      internalID: 888474922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 624
+        width: 67
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ff8fe4b59b4715a87bad57ca2e45a
+      internalID: -483297432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 670
+        width: 225
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d38f53f48e55e70bdd9387228d5fca
+      internalID: -1059701232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 129
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b621855a7e4d982bd74bf3e26828d3
+      internalID: -122441471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 495
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436006f7eb57c8d0a0f604487dbc9d6
+      internalID: -207295258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a3789709c98a7681bd790caab2818
+      internalID: 2027240636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 576
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc18f481bc3d00b7ba5814524ddbd0c
+      internalID: -1932675112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 609
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57018488cb40bd5baf6bebc9da84c5d
+      internalID: -83239225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 609
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c3f95e2a22c68aaf90c619ad43a7e
+      internalID: 2109429130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 366
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d1b020b515b7b3a3f895ac7c2ba85
+      internalID: -686886719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 369
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81276f81b8579eebe741b8c6b6dda8
+      internalID: -985554827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 206
+        width: 256
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4e0ce6943669aa8e4fa188d3d840e
+      internalID: -704938008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 301
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d2ae7c3d98f6e7b448dd170288abb
+      internalID: 239003658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 206
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8495c3d5b2e6f1f08bf2de276cf591d
+      internalID: -1134281354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 158
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237b0e231fdea86db32d11dd7b851fa
+      internalID: -1475089890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 194
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a712fad3ad1ab4c28cc08cfc8efdcff
+      internalID: -1889432832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 158
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f8c5bc95bb81a3bd919b5311383bc
+      internalID: -2020490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 162
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158e8936e0f555cab798f21fdc82481
+      internalID: 1875900237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc59a55f24411f30b54689eb280ea5e
+      internalID: 1697457824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 139
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94edfaf2d7f87f4880980492bd32710
+      internalID: -1865046418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 110
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610feb4143350fc92ba1aac48b125acd
+      internalID: 1289454312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74487f3259df012b8c286d3f326538c
+      internalID: 895891408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4b3953e7e390a60894b761ae5fc357
+      internalID: -1958934089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c1add29de87ef49c83823b8cb280a
+      internalID: -1060499997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 31
+        width: 12
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f64e37ce809ca4d8ac00462e443d1d
+      internalID: 1605500644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 10
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0365c118790a0938a8242a1e8cefd1aa
+      internalID: -1714433867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 79
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6093d9c8d5014fc8aeb20c3e9ceca97
+      internalID: 2145845807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 48
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b49ac26b4e10be086f9d2c99a3f0cd
+      internalID: 738918409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 72
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a699abc2d095e519b9f335d58b146f
+      internalID: -1804272867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 74
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89edf78434ab511d90511eb29499654
+      internalID: 497963221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 72
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0490bd2a8fe601ef88d1a5dd6b056cd
+      internalID: 730003632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914fcd5779f3073a698e8c8710ab20c8
+      internalID: 385982861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abecee1963e24c3fa435f302645eba9
+      internalID: -1713362980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 31
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3673e6f3d408c596def26c638b8a0
+      internalID: 644610913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f54857100036bab62ae228615c247
+      internalID: 526554311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 34
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c522830b1da48537a288264b5c39905
+      internalID: 1490372463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 16
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f972243ae0bd255a186e056041409c
+      internalID: 910786489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11_Camping_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87101a7b93fa58d358aea0956816740b
+      internalID: 1090846734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      11_Camping_16x16_0: 1345214944
+      11_Camping_16x16_1: -73559648
+      11_Camping_16x16_10: 1399655469
+      11_Camping_16x16_100: -985554827
+      11_Camping_16x16_101: -704938008
+      11_Camping_16x16_102: 239003658
+      11_Camping_16x16_103: -1134281354
+      11_Camping_16x16_104: -1475089890
+      11_Camping_16x16_105: -1889432832
+      11_Camping_16x16_106: -2020490801
+      11_Camping_16x16_107: 1875900237
+      11_Camping_16x16_108: 1697457824
+      11_Camping_16x16_109: -1865046418
+      11_Camping_16x16_11: 992734827
+      11_Camping_16x16_110: 1289454312
+      11_Camping_16x16_111: 895891408
+      11_Camping_16x16_112: -1958934089
+      11_Camping_16x16_113: -1060499997
+      11_Camping_16x16_114: 1605500644
+      11_Camping_16x16_115: -1714433867
+      11_Camping_16x16_116: 2145845807
+      11_Camping_16x16_117: 738918409
+      11_Camping_16x16_118: -1804272867
+      11_Camping_16x16_119: 497963221
+      11_Camping_16x16_12: -1755477746
+      11_Camping_16x16_120: 730003632
+      11_Camping_16x16_121: 385982861
+      11_Camping_16x16_122: -1713362980
+      11_Camping_16x16_123: 644610913
+      11_Camping_16x16_124: 526554311
+      11_Camping_16x16_125: 1490372463
+      11_Camping_16x16_126: 910786489
+      11_Camping_16x16_127: 1090846734
+      11_Camping_16x16_13: -917124851
+      11_Camping_16x16_14: -2081749460
+      11_Camping_16x16_15: 877782796
+      11_Camping_16x16_16: 1084902378
+      11_Camping_16x16_17: 911745313
+      11_Camping_16x16_18: -282095119
+      11_Camping_16x16_19: -1948409567
+      11_Camping_16x16_2: 1765677141
+      11_Camping_16x16_20: 90968219
+      11_Camping_16x16_21: 1344061715
+      11_Camping_16x16_22: 695619788
+      11_Camping_16x16_23: -1887281816
+      11_Camping_16x16_24: 1058396150
+      11_Camping_16x16_25: 1955161688
+      11_Camping_16x16_26: -571929003
+      11_Camping_16x16_27: -1968149381
+      11_Camping_16x16_28: -248267687
+      11_Camping_16x16_29: 1402431482
+      11_Camping_16x16_3: -43403144
+      11_Camping_16x16_30: -1068944070
+      11_Camping_16x16_31: -1843218054
+      11_Camping_16x16_32: -1049881590
+      11_Camping_16x16_33: 621438002
+      11_Camping_16x16_34: -540974976
+      11_Camping_16x16_35: 164558731
+      11_Camping_16x16_36: 544110209
+      11_Camping_16x16_37: -1184602454
+      11_Camping_16x16_38: -2032451614
+      11_Camping_16x16_39: -369205495
+      11_Camping_16x16_4: 1118804746
+      11_Camping_16x16_40: 1940958953
+      11_Camping_16x16_41: -984878967
+      11_Camping_16x16_42: 1228686695
+      11_Camping_16x16_43: 283665576
+      11_Camping_16x16_44: 2100366606
+      11_Camping_16x16_45: 1955507069
+      11_Camping_16x16_46: 595285599
+      11_Camping_16x16_47: 1104731832
+      11_Camping_16x16_48: -1086953015
+      11_Camping_16x16_49: -2041607118
+      11_Camping_16x16_5: -1418042314
+      11_Camping_16x16_50: 481749486
+      11_Camping_16x16_51: 28427798
+      11_Camping_16x16_52: -1040561074
+      11_Camping_16x16_53: -254501140
+      11_Camping_16x16_54: 614592470
+      11_Camping_16x16_55: -1857189889
+      11_Camping_16x16_56: -699655908
+      11_Camping_16x16_57: -1523755143
+      11_Camping_16x16_58: -1384450871
+      11_Camping_16x16_59: 1050047367
+      11_Camping_16x16_6: -367296163
+      11_Camping_16x16_60: 252472813
+      11_Camping_16x16_61: -2145000369
+      11_Camping_16x16_62: -400692121
+      11_Camping_16x16_63: -697955908
+      11_Camping_16x16_64: 214924459
+      11_Camping_16x16_65: -1459497099
+      11_Camping_16x16_66: 12943244
+      11_Camping_16x16_67: 233882738
+      11_Camping_16x16_68: -1022151122
+      11_Camping_16x16_69: 384252413
+      11_Camping_16x16_7: -1279310564
+      11_Camping_16x16_70: 705543286
+      11_Camping_16x16_71: 605725868
+      11_Camping_16x16_72: -914378460
+      11_Camping_16x16_73: -1612012320
+      11_Camping_16x16_74: 822984569
+      11_Camping_16x16_75: -1201448238
+      11_Camping_16x16_76: 78507582
+      11_Camping_16x16_77: -1692398627
+      11_Camping_16x16_78: -2076516033
+      11_Camping_16x16_79: 573777368
+      11_Camping_16x16_8: -1394420511
+      11_Camping_16x16_80: -1272922718
+      11_Camping_16x16_81: -522071834
+      11_Camping_16x16_82: -984546755
+      11_Camping_16x16_83: 1683284498
+      11_Camping_16x16_84: 767387576
+      11_Camping_16x16_85: 775125821
+      11_Camping_16x16_86: -760253635
+      11_Camping_16x16_87: 210122308
+      11_Camping_16x16_88: 1251400223
+      11_Camping_16x16_89: -1401501631
+      11_Camping_16x16_9: -53186226
+      11_Camping_16x16_90: 888474922
+      11_Camping_16x16_91: -483297432
+      11_Camping_16x16_92: -1059701232
+      11_Camping_16x16_93: -122441471
+      11_Camping_16x16_94: -207295258
+      11_Camping_16x16_95: 2027240636
+      11_Camping_16x16_96: -1932675112
+      11_Camping_16x16_97: -83239225
+      11_Camping_16x16_98: 2109429130
+      11_Camping_16x16_99: -686886719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
